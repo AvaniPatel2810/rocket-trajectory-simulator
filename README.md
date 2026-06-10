@@ -96,6 +96,7 @@ FlightDynamicsSimulator/
 ├── DataManager.py
 ├── launchHistory.csv
 └── README.md
+
 ```
 
 ---
@@ -159,13 +160,13 @@ T = \frac{2v_y}{g}
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flight-dynamics-simulator.git
+git clone https://github.com/AvaniPatel2810/rocket-trajectory-simulator.git
 ```
 
 ### Navigate to Project Directory
 
 ```bash
-cd flight-dynamics-simulator
+cd rocket-trajectory-simulator
 ```
 
 ### Install Dependencies
@@ -178,6 +179,10 @@ pip install customtkinter matplotlib pillow
 
 ```bash
 python main.py
+```
+or
+```bash
+py main.py
 ```
 
 ---
