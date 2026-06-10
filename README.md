@@ -9,6 +9,18 @@ Flight Dynamics Simulator is designed to demonstrate the principles of rocket mo
 
 Users can configure launch parameters, execute missions, visualize trajectories, monitor telemetry, and store mission records for future analysis.
 
+
+# Screenshots
+
+## Trajectory Visualization
+
+<img width="1920" height="1017" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/1a35a0a0-191c-477e-8e51-7e2ba7dbbbd2" />
+
+
+
+<img width="1920" height="1011" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/5a54d6c4-8859-4ff5-afcc-19889f362965" />
+
+
 ---
 
 ## Features
